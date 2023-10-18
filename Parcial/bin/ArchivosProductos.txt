@@ -1,0 +1,22 @@
+Alitas,Entrantes,100,19900
+Patacones,Entrantes,100,19900
+Nachos,Entrantes,100,19900
+Doritos,Entrantes,100,16900
+Maduro,Entrantes,100,16500
+Mixta,Hamburguesa,100,19400
+Doble,Hamburguesa,100,18400
+Sencilla,Hamburguesa,100,15500
+Especial,Hamburguesa,100,18700
+Pollo,Hamburguesa,100,20100
+Mixta + Gaseosa + Papas,Combos Hamburgesa,100,29000
+Doble + Gaseosa + Papas,Combos Hamburgesa,100,27800
+Sencilla + Gaseosa + Papas,Combos Hamburgesa,100,24500
+Especial + Gaseosa + Papas,Combos Hamburgesa,100,28400
+Pollo + Gaseosa + Papas,Combos Hamburgesa,100,30100
+Coca cola,Bebidas,100,2500
+Agua,Bebidas,100,2000
+Pepsi,Bebidas,100,2500
+Colombiana,Bebidas,100,2500
+Heineken,Bebidas,100,3500
+Cuatro,Bebidas,100,2500
+

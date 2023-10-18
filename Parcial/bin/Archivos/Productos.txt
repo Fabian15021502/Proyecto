@@ -1,0 +1,8 @@
+Pollo,Entrantes,2,5
+Sencilla,Postre,2,2
+Doble ,Postre,5,56
+Cuatro,bebida,4,6
+Sencilla,Hamburguesa,5,60
+Heineken,bebida,1,2
+Cuatro,bebida,1,1
+Doble ,Entrantes,2,2
